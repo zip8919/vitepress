@@ -66,14 +66,14 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'zip8919.vitepress',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'zip8919/vitepress',
+      repoId: 'R_kgDOPRXKxA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDOPRXKxM4CtUMn',
     },
   },
 
